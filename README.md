@@ -41,6 +41,6 @@
     
 
 - About / Details
-Made by [JustCodingTM](t.me/JustCodingTM).<br>
-Built with [Python](python.org) using [Pyrogram](github.com/pyrogram/pyrogram/), [MongoDB](mongodb.com).<br>
-Available on Telegram as [Shaaak](t.me/GuraAtWork_Bot) working for [Anime World • Channel](t.me/JOIN_ANIMEWORLD).<br>
+Made by [JustCodingTM](https://t.me/JustCodingTM).<br>
+Built with [Python](https://www.python.org) using [Pyrogram](https://www.github.com/pyrogram/pyrogram/), [MongoDB](https://www.mongodb.com).<br>
+Available on Telegram as [Shaaak](https://t.me/GuraAtWork_Bot) working for [Anime World • Channel](https://t.me/JOIN_ANIMEWORLD).<br>
