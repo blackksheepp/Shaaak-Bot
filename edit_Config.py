@@ -4,7 +4,7 @@ ADMINCHAT:int = -100123 #? Admin Group ID
 CHANNEL:int = -100123 #? Main Channel ID
 GROUP:int = -100123 #? Main Group ID
 BOT_USERNAME:str = 'BOT_USERNAME' #? Example: 'anidex' no "@"
-CHANNEL_USERNAME:str = 'CHANNEL_USERNAME' #? Example: 'anabysss' no "@"
+GROUP_USERNAME:str = 'GROUP_USERNAME' #? Example: 'anabysss' no "@"
 LINK:str= f'https://t.me/'+CHANNEL_USERNAME+'/{}?thread={}' #? No Edit 
 
 #* -----------------> Users <------------------------
