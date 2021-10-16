@@ -5,7 +5,7 @@ CHANNEL:int = -100123 #? Main Channel ID
 GROUP:int = -100123 #? Main Group ID
 BOT_USERNAME:str = 'BOT_USERNAME' #? Example: 'anidex' no "@"
 GROUP_USERNAME:str = 'GROUP_USERNAME' #? Example: 'anabysss' no "@"
-LINK:str= f'https://t.me/'+CHANNEL_USERNAME+'/{}?thread={}' #? No Edit 
+LINK:str= f'https://t.me/'+GROUP_USERNAME+'/{}?thread={}' #? No Edit 
 
 #* -----------------> Users <------------------------
 OWNER:int = 1183697491 #? Example :- 1183697491
