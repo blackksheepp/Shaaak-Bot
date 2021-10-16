@@ -15,7 +15,7 @@
 
     - What's Unique About it?
         > Add reactions to only posts made by selected users.
-        > add comments button that links to telegram in-built comment thread.
+        > Add comments button that links to telegram in-built comment thread.
         > Unpin channel posts from discussion group.
 
 </b>
@@ -44,8 +44,9 @@
 <hr>
 
 - About / Details
-Made by [JustCodingTM](https://t.me/JustCodingTM).<br>
-Built with [Python](https://www.python.org) using [Pyrogram](https://www.github.com/pyrogram/pyrogram/), [MongoDB](https://www.mongodb.com).<br>
-Available on Telegram as [Shaaak](https://t.me/GuraAtWork_Bot) working for [Anime World • Channel](https://t.me/JOIN_ANIMEWORLD).<br>
+
+    Made by [JustCodingTM](https://t.me/JustCodingTM).<br>
+    Built with [Python](https://www.python.org) using [Pyrogram](https://www.github.com/pyrogram/pyrogram/), [MongoDB](https://www.mongodb.com).<br>
+    Available on Telegram as [Shaaak](https://t.me/GuraAtWork_Bot) working for [Anime World • Channel](https://t.me/JOIN_ANIMEWORLD).<br>
 
 <hr>
